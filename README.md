@@ -51,23 +51,19 @@ python fish_tank_simulator.py
 
 # Screenshots (Add at least 3)
 <img src="https://github.com/sam27peter/Useless_project/blob/main/Pics/Screenshot%202025-08-09%20053802.png" />
-*Add caption explaining what this shows*
 
 <img src="https://github.com/sam27peter/Useless_project/blob/main/Pics/Screenshot%202025-08-09%20053906.png" />
-*Add caption explaining what this shows*
 
 <img src="https://github.com/sam27peter/Useless_project/blob/main/Pics/Screenshot%202025-08-09%20054047.png" />
-*Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![https://github.com/sam27peter/Useless_project/blob/main/Pics/workflow.jpeg](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
 
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1Kae0qyZiw8ACh5J8Y622nOfOoKAahY97/view?usp=drivesdk]
-*Explain what the video demonstrates*
 
 
 ## Team Contributions
