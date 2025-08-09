@@ -50,7 +50,7 @@ python fish_tank_simulator.py
 
 
 # Screenshots (Add at least 3)
-<img src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img src="Pics/Screenshot 2025-08-09 053802.png" />
 *Add caption explaining what this shows*
 
 <img src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
