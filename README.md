@@ -56,7 +56,7 @@ python fish_tank_simulator.py
 <img src="https://github.com/sam27peter/Useless_project/blob/main/Pics/Screenshot%202025-08-09%20053906.png" />
 *Add caption explaining what this shows*
 
-<img src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img src="https://github.com/sam27peter/Useless_project/blob/main/Pics/Screenshot%202025-08-09%20054047.png" />
 *Add caption explaining what this shows*
 
 # Diagrams
